@@ -71,11 +71,12 @@ Full-stack system for secure document delivery with real-time GPS tracking.
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gopetanmay404&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopetanmay404&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://leetcard.jacoblin.cool/gopetanmay404?theme=dark&font=Karma" />
 </div>
 
 <br>
