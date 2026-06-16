@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Tanmay Gope 👋
-### Full Stack Developer · AI Engineer Aspirant · DSA Enthusiast
+Hi, This is Tanmay Gope 
+**Full Stack Developer · AI Engineer Aspirant · DSA Enthusiast**
 
 Building AI systems, scalable backend apps, and solving real-world problems 🚀
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gopetanmay404/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gopetanmay404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-gope-139837250)
 
 </div>
 
@@ -46,7 +46,7 @@ Building AI systems, scalable backend apps, and solving real-world problems 🚀
 
  Featured Projects
 
-**Production Agentic RAG System**
+**Production Agentic RAG System**|
 Self-correcting AI document Q&A system with hybrid retrieval and agentic workflows.
 
 `LangGraph` `FAISS` `BM25` `Groq LLM`
@@ -58,7 +58,7 @@ Self-correcting AI document Q&A system with hybrid retrieval and agentic workflo
 
 ---
 
-**Secure Govt. Document Delivery & Live Tracking *(Group Project)***
+**Secure Govt. Document Delivery & Live Tracking *(Group Project)***|
 Full-stack system for secure document delivery with real-time GPS tracking.
 
 `Socket.IO` `AES-256-GCM` `QR Auth` `Role-based Access`
@@ -84,7 +84,7 @@ Full-stack system for secure document delivery with real-time GPS tracking.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-gope-139837250)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gopetanmay404/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopetanmay404)
 
