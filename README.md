@@ -36,18 +36,6 @@
 
 ---
 
-## 📊 Data Structures & Algorithms
-
-- Solved **350+ problems on LeetCode**  
-- Strong in Arrays, Strings, Recursion, Trees, Graphs  
-- Consistent problem solving in Java  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/[your_username](https://leetcode.com/u/gopetanmay404/)?theme=dark)
-
-
-
-## 🚀 Featured Project
-
 ### 🧠 Production Agentic RAG System
 
 A self-correcting AI-powered document Q&A system built with LangGraph, FAISS, BM25, and Groq LLM.
@@ -63,18 +51,6 @@ A self-correcting AI-powered document Q&A system built with LangGraph, FAISS, BM
 
 ---
 
-## 📜 Certifications
-
-- 🎓 Object Oriented Programming in Java  
-  🔗 :contentReference[oaicite:0]{index=0}  
-
-- 🎓 Java Programming: Arrays, Lists, and Structured Data  
-  🔗 :contentReference[oaicite:1]{index=1}  
-
-- 🎓 Introduction to Artificial Intelligence  
-  🔗 :contentReference[oaicite:2]{index=2}  
-
----
 
 ## 🎯 Goals
 
