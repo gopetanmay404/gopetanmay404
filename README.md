@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gopetanmay404?theme=dark)
 
-Solved 300+ Problems
+Solved 380+ Problems
