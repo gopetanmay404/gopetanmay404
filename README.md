@@ -5,7 +5,7 @@ Hi, This is Tanmay Gope
 
 Building AI systems, scalable backend apps, and solving real-world problems
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gopetanmay404/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-380%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gopetanmay404/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gopetanmay404)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-gope-139837250)
 
