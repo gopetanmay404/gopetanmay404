@@ -16,10 +16,9 @@ Building AI systems, scalable backend apps, and solving real-world problems 🚀
 ## 👨‍💻 About Me
 
 🎓 B.Tech IT student at **NIET Greater Noida**
-🧠 Strong DSA foundation in **Java** — 350+ LeetCode problems solved
-🤖 Passionate about **AI systems, LLMs & RAG pipelines**
-💻 Full Stack Developer — Frontend, Backend & APIs
-🎯 Goal: become a strong **AI Engineer**, mastering scalable system design
+| Strong DSA foundation in **Java** — 350+ LeetCode problems solved
+| Passionate about **AI systems, LLMs & RAG pipelines**
+| Full Stack Developer — Frontend, Backend & APIs
 
 <br>
 
@@ -45,9 +44,9 @@ Building AI systems, scalable backend apps, and solving real-world problems 🚀
 
 <br>
 
-## 🚀 Featured Projects
+ Featured Projects
 
-### 🧠 Production Agentic RAG System
+**Production Agentic RAG System**
 Self-correcting AI document Q&A system with hybrid retrieval and agentic workflows.
 
 `LangGraph` `FAISS` `BM25` `Groq LLM`
@@ -59,7 +58,7 @@ Self-correcting AI document Q&A system with hybrid retrieval and agentic workflo
 
 ---
 
-### 🏗️ Secure Govt. Document Delivery & Live Tracking *(Group Project)*
+**Secure Govt. Document Delivery & Live Tracking *(Group Project)***
 Full-stack system for secure document delivery with real-time GPS tracking.
 
 `Socket.IO` `AES-256-GCM` `QR Auth` `Role-based Access`
