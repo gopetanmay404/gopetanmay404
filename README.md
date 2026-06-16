@@ -5,7 +5,7 @@
 💻 Full Stack Developer | AI Engineer Aspirant | DSA Enthusiast  
 🚀 Building AI systems, scalable backend apps, and solving real-world problems  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/gopetanmay404/)
 [![Java](https://img.shields.io/badge/Java-Core%20DSA-red?style=for-the-badge&logo=java)](#)
 [![AI](https://img.shields.io/badge/AI-LLM%20Systems-blue?style=for-the-badge)](#)
 [![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)](#)
@@ -42,11 +42,9 @@
 - Strong in Arrays, Strings, Recursion, Trees, Graphs  
 - Consistent problem solving in Java  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_username?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/[your_username](https://leetcode.com/u/gopetanmay404/)?theme=dark)
 
-🔗 https://leetcode.com/your_username  
 
----
 
 ## 🚀 Featured Project
 
@@ -91,9 +89,9 @@ A self-correcting AI-powered document Q&A system built with LangGraph, FAISS, BM
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopetanmay404&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopetanmay404&layout=compact&theme=radical)
 
 </div>
 
@@ -101,9 +99,9 @@ A self-correcting AI-powered document Q&A system built with LangGraph, FAISS, BM
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 💻 LeetCode: https://leetcode.com/your_username  
-- 🐙 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://linkedin.com/in/
+- 💻 LeetCode: https://leetcode.com/gopetanmay404
+- 🐙 GitHub: https://github.com/gopetanmay404
 
 ---
 
