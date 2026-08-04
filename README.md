@@ -16,7 +16,7 @@ Building AI systems, scalable backend apps, and solving real-world problems.
 ## 👨‍💻 About Me
 
 🎓 B.Tech IT student at **NIET Greater Noida**
-| Strong DSA foundation in **Java** — 350+ LeetCode problems solved
+| Strong DSA foundation in **Java** — 380+ LeetCode problems solved
 | Passionate about **AI systems, LLMs & RAG pipelines**
 | Full Stack Developer — Frontend, Backend & APIs
 
